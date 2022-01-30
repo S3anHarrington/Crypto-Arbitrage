@@ -1,5 +1,4 @@
-# Challenge-3
-Crypto Arbitrage
+# Crypto Arbitrage
 
 Welcome to my Crypto Arbitrage, here we will be compairing Bitcoin data from two different trading platforms: Bitstamp and Coinbase.
 
@@ -61,3 +60,14 @@ Using the cumsum function, plot the cumulative sum of each of the three DataFram
 THANK YOU FOR USUING MY CRYPTO ARBITRAGE TOOL!
 
 HAPPY CODING!
+
+-----------------------------------------------------------------------
+
+## Contributors
+
+Sean Harrington-
+    Linkedin: www.linkedin.com/in/sean-harrington16
+
+-----------------------------------------------------------------------
+
+## License
